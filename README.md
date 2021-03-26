@@ -12,11 +12,7 @@ I'm a telecommunications engineering student working on side projects.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...
 
-
-In the following weeks I will upload my own repositories for:
-- Advanced palindrome generation
-- WhattsApp chat history analysis
-- Text summarizer Telegram bot with PDF support
+In the following weeks I will be uploading my own repositories
 
 
 Although not exhaustive, I also have experience and am comfortable with:

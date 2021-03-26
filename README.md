@@ -3,21 +3,23 @@
 ### Hi there 👋.
 I'm a telecommunications engineering student working on side projects.
 
-- 🔭 I’m currently working on a Telegram weather bot
-- 🌱 I’m currently learning computational neuroscience
-- 👯 I’m looking to collaborate on .
-- 🤔 I’m looking for help with ...
+- 🔭 I’m currently working on hands-free webcam-based computer navigation and a Telegram weather bot
+- 🌱 I’m currently learning computational neuroscience, data analysis
+- 👯 I’m looking to collaborate on data analysis, real-time CV, 
+- 🤔 I’m looking for help wi
 - 💬 Ask me about anything
 - 📫 How to reach me: ...
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...
--->
 
 
+In the following weeks I will upload my own repositories for:
+- Advanced palindrome generation
+- WhattsApp chat history analysis
+- Text summarizer Telegram bot with PDF support
 
 
-Im also comfortable working with
-
+Although not exhaustive, I also have experience and am comfortable with:
 <p>
   <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge" />
   <img alt="Css" src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white&style=for-the-badge" />

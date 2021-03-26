@@ -3,7 +3,7 @@
 ### Hi there 👋.
 I'm a telecommunications engineering student working on side projects.
 
-- 🔭 I’m currently working on hands-free webcam-based computer navigation and a cocreating a Telegram weather bot
+- 🔭 I’m currently working on hands-free webcam-based computer navigation and cocreating a Telegram weather bot
 - 🌱 I’m currently learning computational neuroscience, data analysis
 - 👯 I’m looking to collaborate on data analysis, real-time CV, 
 - 🤔 I’m looking for help wi

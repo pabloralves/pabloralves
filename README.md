@@ -5,12 +5,15 @@ I'm a telecommunications engineering student working on side projects.
 
 - 🔭 I’m currently working on hands-free webcam-based computer navigation and a Telegram weather bot
 - 🌱 I’m currently learning computational neuroscience, data analysis
+
+<!--
 - 👯 I’m looking to collaborate on data analysis, real-time CV, 
 - 🤔 I’m looking for help wi
 - 💬 Ask me about anything
 - 📫 How to reach me: ...
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...
+-->
 
 Although not exhaustive, I also have experience and am comfortable working with:
 <p>

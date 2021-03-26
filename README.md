@@ -1,4 +1,4 @@
-# Welcome to my GitHub page 👋
+# Welcome to my GitHub page
 
 ### Hi there 👋.
 I'm a telecommunications engineering student working on side projects.

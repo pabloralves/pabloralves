@@ -4,7 +4,7 @@
 I'm a telecommunications engineering student working on side projects.
 
 - 🔭 I’m currently working on hands-free webcam-based computer navigation and a Telegram weather bot
-- 🌱 I’m currently learning computational neuroscience, data analysis
+- 🌱 I’m currently learning computational neuroscience and data analysis
 
 <!--
 - 👯 I’m looking to collaborate on data analysis, real-time CV, 

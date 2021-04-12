@@ -1,7 +1,7 @@
 # Welcome to my GitHub page
 
 ### Hi there 👋.
-I'm a telecommunications engineering student working on side projects.
+I'm a engineering student working on side projects.
 
 - 🔭 I’m currently working on hands-free webcam-based computer navigation and a Telegram weather bot
 - 🌱 I’m currently learning computational neuroscience and data analysis

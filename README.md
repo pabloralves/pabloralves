@@ -3,8 +3,8 @@
 ### Hi there 👋.
 I'm a engineering student working on side projects.
 
-- 🔭 I’m currently working on hands-free webcam-based computer navigation and a Telegram weather bot
-- 🌱 I’m currently learning computational neuroscience and data analysis
+- 🔭 I’m currently researching state-of-the-art music source separation
+- 🌱 I’m currently working on a medium-size VR project with sensors for public speaking training
 
 <!--
 - 👯 I’m looking to collaborate on data analysis, real-time CV, 
